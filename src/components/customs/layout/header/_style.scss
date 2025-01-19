@@ -1,0 +1,13 @@
+.active {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #97adc4;
+}
+
+.item {
+  &:hover {
+    color: #fff;
+    background-color: #007bff6f;
+    border-color: #76818e;
+  }
+}
